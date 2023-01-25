@@ -1,2 +1,11 @@
-# TryhackmeCTFs
-Resolution for some tryhackme CTFs that i did
+## **INDEX WITH ALL CTF Done by me :)**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### If anyone needs help, contact me via Discord: **SnowyBitxhs#9312**
+
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> CTF Index </b>
+
+|CTF Name|CTF LINK|CTF RESOLUTION|
+|--------|--------|--------------|
+|**TakeOver**|[TryHackMe Website](https://tryhackme.com/room/takeover)|[.MD file](https://github.com/SnowyYT07/TryhackmeCTFs/tree/main/TakeOver)|
