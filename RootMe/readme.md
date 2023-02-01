@@ -69,14 +69,14 @@ As we can see its a upload panel. Lets try upload our PHP script
 
 **FOR THE PEOPLE WHO NEEDS:**
 
-![Screenshot1](.)
+![Screenshot1](https://github.com/SnowyYT07/TryhackmeCTFs/blob/main/RootMe/scr1.png)
 
 So lets upload our shell.
 And as we can see, the upload panel blocks php files. so what we do?
 
 (SIMPLE WAY) We simply change the file extension to .php5 (or other php ext.) and upload:
 
-![Screenshot2](.)
+![Screenshot2](https://github.com/SnowyYT07/TryhackmeCTFs/blob/main/RootMe/scr2.png)
 
 Next we go to http://10.10.220.202/xxxxxx/filename.php5
 
