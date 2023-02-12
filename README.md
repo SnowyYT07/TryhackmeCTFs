@@ -12,4 +12,4 @@
 |**Annie**|[Tryhackme Website](https://tryhackme.com/room/annie)|[.MD file](https://github.com/SnowyYT07/TryhackmeCTFs/blob/main/Annie/readme.md)|
 |**RootME**|[Tryhackme Website](https://tryhackme.com/room/rrootme)|[.MD file](https://github.com/SnowyYT07/TryhackmeCTFs/blob/main/RootMe/readme.md)|
 |**Epoch**|[Tryhackme Website](https://tryhackme.com/room/epoch)|[.MD file](https://github.com/SnowyYT07/TryhackmeCTFs/blob/main/Epoch/readme.md)|
-|**Overpass 1**|[Tryhackme Website](https://tryhackme.com/room/overapass)|[.MDfile](https://github.com/SnowyYT07/TryhackmeCTFs/blob/main/Overpass%201/readme.md)
+|**Overpass 1**|[Tryhackme Website](https://tryhackme.com/room/overpass)|[.MDfile](https://github.com/SnowyYT07/TryhackmeCTFs/blob/main/Overpass%201/readme.md)
